@@ -1,0 +1,162 @@
+body{
+    font-family: 'Lato', sans-serif;
+    background-color: #e8e8e8;
+}
+#navbar {
+    background-color: #557a9e;
+    float: left;
+    clear: both;
+    margin: 1%;
+}
+#navbar ul {
+    list-style: none;
+}
+#navbar ul li {
+    float: left;
+}
+#navbar ul li a {
+    display: block;
+    padding: 20px 32px;
+    background-color: #557a9e;
+    text-decoration: none;
+    color: #e8e8e8;
+    text-align: center;
+}
+#navbar img {
+    display: block;
+    background-color: #557a9e;
+    padding: 0px 6px;
+}
+#general {
+    clear: both;
+    margin: 1%;
+}
+h1 {
+    clear: both;
+    padding-top: 2%;
+    margin: 1%;
+}
+table {
+    font-family: monospace;
+}
+td {
+    text-align: center;
+}
+.bio {
+    background-color: #728f71;
+}
+.scr {
+    background-color: #878787;
+}
+.x {
+    background-color: #dbdbdb;
+}
+.his {
+    background-color: #b05656;
+}
+.geo {
+    background-color: #60a7bf;
+}
+.fre {
+    background-color: #915aa3;
+}
+.eng {
+    background-color: #ffa6b3;
+}
+.art {
+    background-color: #f2ff9c;
+}
+.comp {
+    background-color: #4b7ab3;
+}
+a {
+    text-decoration: none;
+}
+#geometry {
+    float: left;
+    width: 200px;
+    height: 200px;
+    margin: 2%;
+    border-style: solid;
+    text-align: center;
+}
+#english {
+    float: left;
+    margin: 2%;
+    border-style: solid;
+    text-align: center;
+    width: 200px;
+    height: 200px;
+}
+#biology {
+    float: left;
+    margin: 2%;
+    border-style: solid;
+    text-align: center;
+    width: 200px;
+    height: 200px;
+}
+#history {
+    float: left;
+    margin: 2%;
+    border-style: solid;
+    text-align: center;
+    width: 200px;
+    height: 200px;
+}
+#theology {
+    float: left;
+    margin: 2%;
+    border-style: solid;
+    text-align: center;
+    width: 200px;
+    height: 200px;
+}
+#computerscience {
+    float: left;
+    margin: 2%;
+    border-style: solid;
+    text-align: center;
+    width: 200px;
+    height: 200px;
+}
+#webdevelopment {
+    float: left;
+    margin: 2%;
+    border-style: solid;
+    text-align: center;
+    width: 200px;
+    height: 200px;
+}
+#french {
+    float: left;
+    margin: 2%;
+    border-style: solid;
+    text-align: center;
+    width: 200px;
+    height: 200px;
+}
+#visualfoundations {
+    float: left;
+    margin: 2%;
+    border-style: solid;
+    text-align: center;
+    width: 200px;
+    height: 200px;
+}
+#preformingarts {
+    float: left;
+    margin: 2%;
+    border-style: solid;
+    text-align: center;
+    width: 200px;
+    height: 200px;
+}
+#lifeskills {
+    float: left;
+    margin: 2%;
+    border-style: solid;
+    text-align: center;
+    width: 200px;
+    height: 200px;
+}
