@@ -171,3 +171,8 @@ a:hover {
 a:visited {
     color: #557a9e;
 }
+#backtotop {
+    clear: both;
+    float: right;
+    margin: 2%;
+}
