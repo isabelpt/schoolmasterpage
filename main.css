@@ -39,6 +39,8 @@ h1 {
 table {
     font-family: monospace;
     margin-bottom: 1%;
+    width: 99.5%;
+    height: auto;
 }
 td {
     text-align: center;
